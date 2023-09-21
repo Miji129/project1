@@ -1,0 +1,87 @@
+<html>
+<img src="flag1.png" alt="flag" 
+width="200"
+height="140">
+<img src="map1.jpg" alt="map" style="float: right;"
+width="200"
+height="140">
+<hr>
+<h1><center>Iceland</center></h1>
+<p><b>Iceland</b> is a country widely known as "the land of fire and ice," due to its combination of ice caps and active volcanoes. Reykjavik is the capital and largest city of Iceland.</p>
+<br>
+<div style="background-color: lightblue;"> 
+<H4>Things to do in Iceland</H4>
+<img src="Nlights.avif" alt="Northern lights" style="margin-left: 12px;"
+width="440"
+height="260"
+<br>
+<h4><i>Northern lights in Iceland</i></h4>
+<p>Northern Lights (Aurora Borealis) in Iceland is that they are often referred to as the "Spectacular Dance of the Elves" in Icelandic folklore. In Icelandic mythology, it is believed that the Northern Lights are the result of the playful and mischievous activities of elves or hidden people in the night sky.</p>
+<br>
+<img src="golden circle.avif" alt="Golden Circle" style="margin-left: 12px;"
+width="440"
+height="260"
+<br>
+<h4><i>The Golden Circle</i></h4>
+<p>The Golden Circle is a route that takes you to the most stunning and historically significant landmarks/places in Iceland. It's a circular route located in the southwestern part of Iceland, not far from Reykjavik.</p>
+</div>
+<hr>
+<br>
+<h3>Upcoming Events</h3>
+<ul style=“list-style-type:square”>
+    <li><a href="https://www.last.fm/festival/4712713+Extreme+Chill+Festival+2023/lineup"> Chill Festival 2023 </a></li> 
+    <li><a href="https://anydayguide.com/festival/601-reykjavik-international-film-festival"> Reykjavik International Film Festival </a></li>
+</ul>
+<br>
+<hr>
+<h3>Newsfeed</h3>
+
+<h4>New sheep colours found in Iceland</h4>
+<p>“What seems to me to be that there is a really remarkable genetic phenomenon happening. This is definitely a mutation in the genes of colour,” commented agricultural scientist Jón Viðar Jónmundsson, who told Morgunblaðið that “two previously unknown sheep’s colours have been discovered here.</p>
+<h4>Landslide outside of the town and evacuation order still in effect</h4>
+<p>“We assume that the evacuations that have been carried out will continue today,” says Kristján Ólafur Guðnason, the East Iceland police chief, but yesterday it was decided to evacuate houses in Seyðisfjörður due to a precipitation forecast.</p>
+<hr>
+<h3>How much does an Iceland trip cost?</h3>
+<style></style>
+<table bgcolor="lightblue" border="1px"
+    <tr>
+      <th>Price</th>
+      <th></th>  
+    </tr>
+    <tr>
+        <th>$1100</th>
+        <th>Flight from NYC to Reykjavik</th>
+    </tr>
+    <tr>
+        <th>$160</th>
+        <th>Hotel Reykjavik Grand (1 person)</th>
+    </tr>
+    <tr>
+        <th>$80</th>
+        <th>Food per person</th>
+    </tr>
+    <tr>
+        <th>$20</th>
+        <th>Attractions</th>
+    </tr>
+    <tr>
+        <th>$260</th>
+        <th>Price per day</th>
+    </tr>
+</table>
+<hr>
+<h3>Contact us</h3>
+<a href="+354 775 4321"> call us
+<img src="phone.png" alt="phone" width="100" height="100"
+</a>
+<br>
+<a href="mingjie.lian00@student.qcc.cuny.edu">Email us 
+<img src="email.png" alt="email" width="100" height="100" 
+</a>
+<br>
+<a href="https://www.instagram.com/iceland/">Follow us
+<img src="insta.png" alt="instagram" width="100" height="100" 
+</a>
+<hr>
+<center><a href="The Northern lights">Northern Lights</a> <a href="The Goldern Circle">Golden circle</a> <a href="mingjie.lian00@student.qcc.cuny.edu">Contact us</a></center>
+<center><h3>Project 1 by Mingjie Lian</h3></center>

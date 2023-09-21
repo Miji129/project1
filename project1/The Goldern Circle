@@ -1,0 +1,21 @@
+<html>
+<h1><center>The Golden Circle</center></h1>
+<hr>
+<div class="row">
+    <div class="column">
+      <img src="GC1.jpg" alt="Northern lights" style="float: right;"
+    </div>
+    <div class="column">
+      <img src="GC2.jpg" alt="Northern Lights" height="170"  style="float: right;"
+    </div>
+    <div class="column">
+      <img src="GC3.jpg" alt="Northern lights"
+    </div>
+</div>
+<hr>
+<br>
+<p><i> The Golden Circle</i> in Iceland is a must-visit tourist route, renowned for its striking natural wonders and historical significance. This circular journey typically includes three primary attractions: Thingvellir National Park, where Iceland's ancient parliament once convened amidst a dramatic tectonic rift; the Geysir Geothermal Area, home to the erupting Strokkur geyser and bubbling hot springs; and Gullfoss, a majestic two-tiered waterfall often adorned with rainbows. These awe-inspiring landmarks, easily accessible from Reykjavik, showcase Iceland's geological marvels and cultural heritage, making the Golden Circle an essential part of any Icelandic adventure.</p>
+<br>
+<hr>
+<center><a href="The Northern lights">Northern Lights</a> <a href="The Goldern Circle">Golden circle</a> <a href="mingjie.lian00@student.qcc.cuny.edu">Contact us</a></center>
+<center><h3>Project 1 by Mingjie Lian</h3></center>
